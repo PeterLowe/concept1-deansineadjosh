@@ -1,5 +1,6 @@
 Title
 insert team member names here
+Josh
 
 Elevator pitch 
 Describe your game in 30 seconds or less
